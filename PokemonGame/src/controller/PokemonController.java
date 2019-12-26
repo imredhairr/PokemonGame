@@ -36,10 +36,7 @@ import javafx.fxml.FXML;
 import javafx.scene.input.MouseEvent;
 import javafx.util.Duration;
 
-/**
- *
- * @author Nguyen Hung Hau
- */
+
 public class PokemonController implements Initializable {
 
     private static long TURN_BACK_TIME = 3;
