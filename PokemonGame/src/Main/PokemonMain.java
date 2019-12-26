@@ -18,10 +18,6 @@ import javafx.scene.Parent;
 import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
 
-/**
- *
- * @author Nguyen Hung Hau
- */
 public class PokemonMain extends Application {
 
    PokemonController pokemon = new PokemonController();
